@@ -132,6 +132,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Slim](http://www.slimframework.com/) - Another simple micro framework.
 * [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
 * [Lumen](http://lumen.laravel.com) - A micro-framework by Laravel.
+* [Puppy](http://puppyframework.com) - A ready-to-use micro-framework for tiny websites.
 
 ## Micro Framework Extras
 *Extras related to micro frameworks and routers.*
