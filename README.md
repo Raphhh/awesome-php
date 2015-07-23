@@ -85,6 +85,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Composer Installers](https://github.com/composer/installers) - A  multi framework Composer library installer.
 * [Pickle](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
 * [Melody](http://melody.sensiolabs.org/) - A tool to build one file Composer scripts.
+* [Samurai](http://samuraiphp.com) - A project scaffolding tool.
 
 ## Dependency Management Extras
 *Extras related to dependency management.*
