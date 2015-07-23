@@ -15,6 +15,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 	- [Micro Framework Extras](#micro-framework-extras)
     - [Routers](#routers)
 	- [Templating](#templating)
+	- [Configuration](#configuration)
 	- [Static Site Generators](#static-site-generators)
 	- [HTTP](#http)
 	- [Middlewares](#middlewares)
@@ -159,6 +160,10 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPTAL](http://phptal.org/) - A PHP implementation of the [TAL](http://en.wikipedia.org/wiki/Template_Attribute_Language) templating language.
 * [Plates](http://platesphp.com/) - A native PHP templating library.
 * [Lex](https://github.com/pyrocms/lex) - A lightweight template parser.
+
+## Configuration
+*Libraries and tools for managing project config.*
+* [Puppy Config](https://github.com/Raphhh/puppy-config) - A multi-format file config reader.
 
 ## Static Site Generators
 *Tools for pre-processing content to generate web pages.*
